@@ -6,7 +6,6 @@
 #include<math.h>
 #include"XDD.h"
 //Admin Password is : fast1234
-//project by BSCS-1A
 
 
 
