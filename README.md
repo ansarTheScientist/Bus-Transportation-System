@@ -15,8 +15,10 @@ Operations: Perform essential operations like deleting user data based on phone 
 # Usage
 
 # Setup
-# Compile: Use any C compiler. Example: gcc main.c -o TransportSystem.
-# Run: Execute the compiled file. Example: ./TransportSystem.
+# Compile:
+Use any C compiler. Example: gcc main.c -o TransportSystem.
+# Run:
+Execute the compiled file. Example: ./TransportSystem.
 
 # Functionalities
 # Menu Options:
