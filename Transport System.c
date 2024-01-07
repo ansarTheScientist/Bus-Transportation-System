@@ -7,10 +7,7 @@
 #include"XDD.h"
 //Admin Password is : fast1234
 //project by BSCS-1A
-//Muhammad Usman Malik 20k-0200
-//Mohammad Hammad Shakeel 20k-0368
-//Muhammad Shahroz Siddiqui 20k-1034
-//
+
 
 
 
